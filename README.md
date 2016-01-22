@@ -1,6 +1,10 @@
 # cuteedit
 Cross-platform test editor using QScintilla
 
+You need QScintilla to compile this program.
+
+See https://www.riverbankcomputing.com/software/qscintilla/intro for more info
+
 How to compile:
 
 With Qt Creator:
